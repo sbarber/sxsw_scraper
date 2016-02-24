@@ -1,6 +1,6 @@
 ## Synopsis
 
-A simple ruby script to parse / scrape SXSW 2016's showcase website. Also will provide json static file updates that you can use in your scripts
+A simple ruby script to parse / scrape SXSW 2016's showcase website. Also will provide json static file updates that you can use in your scripts (ie: `https://raw.githubusercontent.com/sbarber/sxsw_scraper/master/sxsw-showcases-20160224134325.json`)
 
 ## Motivation
 
